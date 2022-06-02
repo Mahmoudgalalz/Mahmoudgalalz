@@ -27,7 +27,11 @@ This is where I open-source stuff either break them or build them.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vim,linux,vscode,js,java,cpp,ts,mysql,mongodb,prisma,nodejs,expressjs,react,angular,aws,azure,gcp,firebase,bash&perline=4" />
+  </a>
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmoudgalalz&show_icons=true&locale=en" alt="mahmoudgalalz" /></p>
 

@@ -5,7 +5,7 @@ This is where I open-source stuff either break them or build them.
 
 <p align="left"> <a href="https://twitter.com/eitmg" target="blank"><img src="https://img.shields.io/twitter/follow/eitmg?logo=twitter&style=for-the-badge" alt="eitmg" /></a> </p>
 
-- :telescope:  I’m currently working on something [CLI-gite](https://github.com/superdynamix/cli-gite)  :wink:
+- :telescope:  I’m currently working on [CLI-gite](https://github.com/superdynamix/cli-gite)  :wink:
 
 - 🌱 I’m currently learning **MERN Stack**
 - 🌱 I’m currently doing Striks on **[LeetCode](https://leetcode.com/kroking)**

@@ -7,10 +7,10 @@ This is where I open-source stuff either break them or build them.
 
 - :telescope:  I’m currently working on [CLI-gite](https://github.com/superdynamix/cli-gite)  :wink:
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **DevOps**
 - 🌱 I’m currently doing Striks on **[LeetCode](https://leetcode.com/kroking)**
 
-- 💬 Ask me about **java, react, ts, js, Nodejs, Epxress, MongoDB, SQL, multi-threading, DSA**
+- 💬 Ask me about **java, ts, js, Nodejs, Epxress, MongoDB, SQL, multi-threading, AWS, CI/CD, Docker**
 
 - 📫 How to reach me [@eitmg](https://twitter.com/eitmg), mail me [KroKing](mailto:krooking0@gmail.com)
 

@@ -16,7 +16,7 @@ This is where I open-source stuff either break them or build them.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/mahmoudgalal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://dev.to/mahmoudgalal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mahmoudgalalz" height="30" width="40" /></a>
 <a href="https://twitter.com/eitmg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eitmg" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mahmoudgalalz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoudgalalz" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/mahmoudgalalz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mahmoudgalalz" height="30" width="40" /></a>
@@ -29,7 +29,7 @@ This is where I open-source stuff either break them or build them.
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vim,linux,vscode,js,java,cpp,ts,mysql,mongodb,prisma,nodejs,expressjs,react,angular,aws,azure,gcp,firebase,bash&perline=4" />
+    <img src="https://skillicons.dev/icons?i=git,vim,linux,vscode,githubactions,java,cpp,go,js,ts,postgres,mysql,mongodb,prisma,nodejs,expressjs,react,astro,tailwind,aws,azure,gcp,cf,workers,bash&perline=5" />
   </a>
 </p>
 

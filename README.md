@@ -29,7 +29,7 @@ This is where I open-source stuff either break them or build them.
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vim,linux,vscode,githubactions,java,cpp,go,js,ts,postgres,mysql,mongodb,prisma,nodejs,expressjs,react,astro,tailwind,aws,azure,gcp,cf,workers,bash&perline=5" />
+    <img src="https://skillicons.dev/icons?i=git,vim,linux,vscode,githubactions,java,cpp,go,js,ts,postgres,mysql,mongodb,prisma,nodejs,expressjs,react,astro,tailwind,aws,azure,gcp,cf,workers,bash,ansible&perline=5" />
   </a>
 </p>
 

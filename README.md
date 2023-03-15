@@ -5,7 +5,7 @@ This is where I open-source stuff either break them or build them.
 
 <p align="left"> <a href="https://twitter.com/eitmg" target="blank"><img src="https://img.shields.io/twitter/follow/eitmg?logo=twitter&style=for-the-badge" alt="eitmg" /></a> </p>
 
-- :telescope:  I’m currently working on [JuniorJobs](https://github.com/mahmoudgalal/juniorjobs)  :wink:
+- :telescope:  I’m currently working on [JuniorJobs](https://github.com/mahmoudgalalz/juniorjobs)  :wink:
 
 - 🌱 I’m currently learning **DevOps**
 - 🌱 I’m currently doing Striks on **[LeetCode](https://leetcode.com/kroking)**

@@ -36,3 +36,6 @@ This is where I open-source stuff either break them or build them.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmoudgalalz&show_icons=true&locale=en" alt="mahmoudgalalz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudgalalz&" alt="mahmoudgalalz" /></p>
+
+[![An image of @kro's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kro)](https://holopin.io/@kro)
+

@@ -39,4 +39,6 @@ This is where I open-source stuff either break them or build them.
 
 [![An image of @kro's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kro)](https://holopin.io/@kro)
 
-<img src="https://apidev.woke.build/views/2d64d379-5075-499c-80df-80e22fd066d6"/>
+<a href="" target="_blank" align="center">
+  <img src="https://apidev.woke.build/views/2d64d379-5075-499c-80df-80e22fd066d6"/>
+</a>
